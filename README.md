@@ -3,15 +3,9 @@ KanjiQuest
 
 Kerhopeli 2014-2015
 
-**Tehtävälista:**
-https://github.com/sepeliry/KanjiQuest/issues
+**KAIKKI SISÄLTÖ LÖYTYY WIKISTÄ:**
+https://github.com/sepeliry/KanjiQuest/wiki
 
-
-**Peli-idea:**
-
-https://github.com/sepeliry/Pelikerho/wiki/Peli%E2%80%93idea-:-Ky%C5%8Diku-kanji-Quest--%E2%80%93-Quest-of-the-47-Ronin
-
-**Roolitus ja suunnitelma:**
-
-https://github.com/sepeliry/Pelikerho/wiki/Toteutus:-Kanji-Quest
-
+** TOIMI NÄIN **
+1. Katso roolisi roolitussivulta: https://github.com/sepeliry/KanjiQuest/wiki/Roolitus (ja jos sinulla ei ole roolia, valitse sellainen kirjoittamalla nimesi taulukkoon)
+1. Tsekkaa tehtävälistasta (https://github.com/sepeliry/KanjiQuest/issues) rooliisi sopiva avoin tehtävä ja kääri hihat.

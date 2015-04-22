@@ -77,7 +77,7 @@ class KivyRogue(GridLayout):
         self.overlapped_btn.text = u"人"
         
     def on_pressed(self,obj):
-        # Get the direction where the clicked tile was compared to current pos
+       # Get the direction where the clicked tile was compared to current pos
         click_x,click_y = self._get_x_y_for_btn(obj)
         current_x,current_y = self._get_x_y_for_btn(self.overlapped_btn)
         dx = click_x-current_x

@@ -1,0 +1,1006 @@
+一;one;ichi, itsu;hito-tsu
+二;two;ni, ji;futa-tsu
+三;three;san　;mit-tsu
+四;four;shi;yot-tsu, yon
+五;five;go;itsu-tsu
+六;six;roku;mut-tsu
+七;seven;shichi;nana-tsu
+八;eight;hachi;yat-tsu
+九;nine;ku or kyū;kokono-tsu
+十;ten;jū;tō
+百;hundred;hyaku;momo
+千;thousand;sen;chi
+上;top, above;jō;ue
+下;bottom, below;ka, ge;shita, shimo, moto
+左;left;sa;hidari
+右;right;u, yū;migi
+中;inside, middle;chū, jū;naka
+大;large;dai, tai;ō-kii
+小;small;shō;chii-sai, ko, o
+月;month; moon;gatsu or getsu;tsuki
+日;day; sun;nichi, jitsu;hi, ka
+年;year;nen;toshi
+早;early;sō, satsu;haya-i
+木;tree;moku or boku;ki
+林;woods;rin;hayashi
+山;mountain;san, zan;yama
+川;river;sen;kawa
+土;soil;do, to;tsuchi
+空;sky;kū;sora, a-ku, kara
+田;rice paddy;den;da, ta
+天;heaven;ten;ame, ama
+生;life, bear; raw;sei, shō;i-kiru, u-mu, nama
+花;flower;ka;hana
+草;grass;sō;kusa
+虫;insect;chū;mushi
+犬;dog;ken;inu
+人;person;jin, nin;hito
+名;name;mei or myō;na
+女;female;jo, nyo;on'na
+男;male;dan or nan;otoko
+子;child;shi, su;ko
+目;eye;moku;me
+耳;ear;ji, ni;mimi
+口;mouth;kou;kuchi
+手;hand;shu;te
+足;foot;soku;ashi
+見;see;ken, gen;mi-ru
+音;sound;on;ne, oto
+力;power;riki, ryoku;chikara
+気;spirit; air;ki, ke;iki
+円;yen; circle;en;maru
+入;enter;nyū;hai-ru or i-ru
+出;exit;shutsu;de-ru
+立;stand up;ritsu;ta-tsu
+休;rest;kyū;yasu-mu
+先;previous;sen;saki
+夕;evening;seki;yū
+本;book;hon;moto
+文;text;bun, mon;fumi
+字;character;ji;aza
+学;study;gaku;mana-bu
+校;school;kō;kase
+村;village;son;mura
+町;town;chō;machi
+森;forest;shin;mori
+正;correct;sei, shō;tada-shii, masa
+水;water;sui;mizu
+火;fire;ka;hi
+玉;gem;gyoku;tama
+王;king;　ou;kimi
+石;stone;seki, koku;ishi
+竹;bamboo;chiku;take
+糸;thread;shi;ito
+貝;shellfish;gai;kai
+車;vehicle;sha;kuruma
+金;gold,money;kin;kane, kana
+雨;rain;u;ame, ama
+赤;red;seki;aka
+青;blue;sei, shō;ao
+白;white;haku;shiro, shira
+数;number, count;sū;kazu
+多;many, much;ta;oo-i
+少;a few, a little;shō;suku-nai, suko-shi
+万;ten thousand;man;yorozu
+半;half;han;naka-ba
+形;shape;kei, gyō;katachi
+太;thick;ta;futo-i
+細;thin;sai;hoso-i
+広;wide;kō;hiro-i
+長;long; leader;chō;naga-i
+点;point;ten;bochi
+丸;circle;gan;maru
+交;intersect;kou;maji-waru
+光;light;kou;hikari
+角;corner; horn;kaku;kado, tsuno, sumi
+計;measure;kei;haka-ru
+直;straight; fix;choku, jiki;tada-chi, nao-su
+線;line;sen;suji
+矢;arrow;shi;ya
+弱;weak;jaku;yowa-i
+強;strong;kyō;tsuyo-i
+高;high;kō;taka-i
+同;same;dō;ona-ji
+親;parent;shin;oya
+母;mother;bo;haha, kaa
+父;father;fu;chichi, tou
+姉;older sister;shi;ane
+兄;older brother;kei;ani
+弟;younger brother;tei, dai;otōto
+妹;younger sister;mai;imōto
+自;oneself;ji, shi;mizuka-ra
+友;friend;yū;tomo
+体;body;tai;karada
+毛;hair;mou;ke
+頭;head;tou;atama
+顔;face;gan;kao
+首;neck;shu;kubi
+心;heart;shin;kokoro
+時;time;ji;toki
+曜;weekday;yō
+朝;morning;chō;asa
+昼;daytime;chū;hiru
+夜;night;ya;yoru
+分;minute; understand;fun, bun;wa-karu
+週;week;shū
+春;spring;shun;haru
+夏;summer;ka;natsu
+秋;autumn;shū;aki
+冬;winter;tō;fuyu
+今;now;kon;ima
+新;new;shin;atara-shii
+古;old;ko;furu-i
+間;interval;kan, ken;ma, aida
+方;direction;hō;kata
+北;north;hoku;kita
+南;south;nan;minami
+東;east;tou;higashi, azuma
+西;west;sei, sai;nishi
+遠;far;en;tō-i
+近;near;kin;chika-i
+前;before;zen;mae
+後;after;go, kō;nochi, ushi-ro, ato
+内;inside;nai;uchi
+外;outside;gai, ge;soto, hoka, hazu-su
+場;place;jou;ba
+地;ground;chi, ji
+国;country;koku;kuni
+園;garden;en;sono
+谷;valley;koku;tani
+野;field;ya;no
+原;meadow;gen;hara
+里;hometown;ri;sato
+市;city;shi;ichi
+京;capital;kyou, kei;miyako
+風;wind; -like;fū;kaze
+雪;snow;setsu;yuki
+雲;cloud;un;kumo
+池;pond;chi;ike
+海;sea;kai;umi
+岩;rock;gan;iwa
+星;star;sei;hoshi
+室;room;shitsu;muro
+戸;door;ko;to, be
+家;house;ka, ke;ie
+寺;Buddhist temple;ji;tera
+通;pass through;tsū;tō-ru
+門;gates;mon;kado
+道;road;dou;michi
+話;talk;wa;hanashi, hana-su
+言;say;gen, gon;i-u, koto
+答;answer;tou;kota-eru
+声;voice;sei;koe
+聞;hear;bun, mon;ki-ku
+語;language;go;kata-ru
+読;read;doku;yo-mu
+書;write;sho;ka-ku
+記;record;ki;shiru-su
+紙;paper;shi;kami
+画;brush stroke;ga, kaku;
+絵;picture;kai;e
+図;drawing;zu;haka-ru
+工;craft;kō, ku;
+教;teach;kyō;oshi-eru
+晴;clear;sei;hare
+思;think;shi;omo-u
+考;consider;kō;kanga-eru
+知;know;chi;shi-ru
+才;ability;sai, zai;wazukani,zae
+理;reason;ri;kotowari
+算;calculate;san;
+作;make;saku;tsuku-ru
+元;origin;gen, gan;moto
+食;eat;shoku;ta-beru, ku-u
+肉;meat;niku;
+馬;horse;ba;uma, ma
+牛;cow;gyuu;ushi
+魚;fish;gyo;uo, sakana
+鳥;bird;chō;tori
+羽;feather;u;ha, hane
+鳴;chirp;mei;na-ku
+麦;wheat;baku;mugi
+米;rice;bei, mai;kome
+茶;tea;cha, sa;
+色;colour;shoku;iro
+黄;yellow;ō;ki
+黒;black;koku;kuro
+来;come;rai;ku-ru
+行;go;kou, gyō;i-ku, yu-ku, okonau
+帰;return;ki;kae-ru
+歩;walk;ho;aru-ku, ayu-mu
+走;run;sou;hashi-ru
+止;stop;shi;to-maru
+活;active;katsu;i-kiru
+店;store;ten;mise
+買;buy;bai;ka-u
+売;sell;bai;u-ru
+午;noon;go;uma
+汽;steam;ki;
+弓;bow (noun);kyū;yumi
+回;-times;kai;
+会;meet;kai, e;a-u
+組;team;so;kumi
+船;ship;sen;fune
+明;bright;mei;aka-rui
+社;company;sha;yashiro
+切;cut;setsu;ki-ru
+電;electricity;den;
+毎;every;mai;
+合;fit;gou;a-u
+当;this; hit;tō;a-taru
+台;pedestal;dai, tai;
+楽;pleasure;raku;tano-shii
+公;public;kou;ōyake
+引;pull;in;hi-ku
+科;section;ka;
+歌;song;ka;uta
+刀;sword;tou;katana
+番;number;ban;
+用;use;you;mochi-iru
+何;what;ka;nani, nan
+丁;town section; measure word;chō;hinoto
+世;generation;sei or se;yo
+両;both;ryō;teru, futatsu
+主;master, main;shu;nushi or omo
+乗;ride;jō;no-ru
+予;beforehand;yo;arakaji-me
+事;abstract thing;ji;koto
+仕;serve;shi;tsuka-eru
+他;other;ta;hoka
+代;substitute;dai or tai;ka-waru or yo
+住;dwell;jū;su-mu
+使;use;shi;tsuka-u
+係;leader;kei;kakari or kaka-ru
+倍;double;bai
+全;whole;zen;matta-ku
+具;tool;gu;sona-eru or tsubusa-ni
+写;copy;sha;utsu-su
+列;row;retsu
+助;help;jo;tasu-keru
+勉;diligence;ben;tsuto-meru
+動;move;dō;ugo-ku
+勝;win;shō;ka-tsu
+化;change;ka;ba-keru
+区;ward;ku
+医;doctor;i;iya-su or i-suru
+去;leave;kyo or ko;sa-ru
+反;anti-;han;so-ru
+取;take;shu;to-ru
+受;receive;ju;u-keru
+号;number;gō;yobina or sake-bu
+向;confront;kō;mu-kau
+君;you; monarch;kun;kimi
+味;flavor;mi;aji or aji-wau
+命;fate, life;mei;inochi
+和;harmony; Japanese;wa;yawa-ragu or nago-yaka
+品;article;hin;shina
+員;employee;in
+商;commerce;shō
+問;question;mon;to-u or ton
+坂;slope;han;saka
+央;center;ō
+始;begin;shi;haji-meru
+委;committee;i;yuda-neru
+守;protect;shu;mamo-ru
+安;cheap;an;yasu-i
+定;fix;tei or jō;sada-meru
+実;fruit; reality;jitsu;mi or mino-ru
+客;guest;kyaku
+宮;Shinto shrine or prince (princess);kyū;miya
+宿;inn;shuku;yado or yado-ru
+寒;cold;kan;samu-i
+対;opposite, against;tai;aite or soro-i
+局;office;kyoku;tsubone
+屋;roof;oku;ya
+岸;shore;gan;kishi
+島;island;tō;shima
+州;state;shū;su
+帳;ledger;chō;tobari
+平;flat;hei or byō;tai-ra or hira
+幸;happiness;kō;saiwa-i or shiawa-se
+度;degree;do;tabi
+庫;warehouse;ko or ku;kura
+庭;yard;tei;niwa
+式;style; ceremony; numerical formula;shiki
+役;role;yaku
+待;wait;tai;ma-tsu
+急;hurry;kyū;iso-gu
+息;breath;soku;iki
+悪;bad;aku;waru-i
+悲;sad;hi;kana-shii
+想;thought;sō
+意;idea;i
+感;feel;kan
+所;place;sho;tokoro
+打;hit;da;u-tsu
+投;throw;tō;na-geru
+拾;pick up;	hiro-u
+持;hold;ji;mo-tsu
+指;finger;shi;yubi or sa-su
+放;release;hō;hana-su
+整;organize;sei;totono-eru
+旅;trip;ryo;tabi
+族;tribe;zoku
+昔;long ago;seki or shaku;mukashi
+昭;shine;shō
+暑;hot;sho;atsu-i
+暗;dark;an;kura-i
+曲;melody; curve;kyoku;ma-garu
+有;possess;yū;a-ru
+服;clothes;fuku
+期;period of time;ki
+板;board;han or ban;ita
+柱;pillar;chū;hashira
+根;root;kon;ne
+植;plant;shoku;u-eru
+業;business;gyō
+様;appearance;yō;sama
+横;horizontal;ō;yoko
+橋;bridge;kyō;hashi
+次;next;ji;tsugi or tsu-gu
+歯;tooth;shi;ha
+死;death;shi;shi-nu
+氷;ice;hyō;kōri
+決;decide;ketsu;ki-meru
+油;oil;yu;abura
+波;wave;ha;nami
+注;pour;chū;soso-gu
+泳;swim;ei;oyo-gu
+洋;ocean;yō
+流;stream;ryū;naga-reru
+消;extinguish;shō;ki-eru or ke-su
+深;deep;shin;fuka-i
+温;warm;on;atata-kai
+港;harbor;kō;minato
+湖;lake;ko;mizūmi
+湯;hot water;tō;yu
+漢;China;kan
+炭;charcoal;tan;sumi
+物;thing;butsu or motsu;mono
+球;ball;kyū;tama
+由;reason;yū or yu　;yoshi
+申;say;shin;mō-su
+界;world;kai
+畑;farm;	hata or hatake
+病;sick;byō;yamai
+発;departure;hatsu
+登;climb;tō or to;nobo-ru
+皮;skin;hi;kawa
+皿;dish;bei;sara
+相;mutual;sō;ai
+県;prefecture;ken;ka-keru
+真;true;shin;ma
+着;wear;chaku;ki-ru or tsu-ku
+短;short;tan;mijika-i
+研;sharpen;ken;to-gu
+礼;salute;rei
+神;deity;shin or jin;kami
+祭;festival;sai;matsu-ri
+福;luck;fuku
+秒;second;byō
+究;research;kyū;kiwa-meru
+章;chapter;shō
+童;juvenile;dō;warabe
+笛;whistle;teki;fue
+第;ordinal;dai
+筆;writing brush;hitsu;fude
+等;class;tō;hito-shii
+箱;box;sō;hako
+級;rank;kyū
+終;end;shū;o-waru
+緑;green;ryoku;midori
+練;practice;ren;ne-ru
+羊;sheep;yō;hitsuji
+美;beauty;bi;utsuku-shii
+習;learn;shū;nara-u
+者;someone;sha;mono
+育;nurture;iku;soda-tsu
+苦;suffer;ku;kuru-shii or niga-i
+荷;luggage;ka;ni
+落;fall;raku;o-chiru
+葉;leaf;yō;ha
+薬;medicine;yaku;kusuri
+血;blood;ketsu;chi
+表;express;hyō;omote or arawa-su
+詩;poem;shi;uta
+調;tone;chō;shira-beru
+談;discuss;dan
+豆;beans;tō or zu;mame
+負;lose;fu;ma-keru or o-u
+起;awaken;ki;o-kiru
+路;path;ro;ji
+身;body;shin;mi
+転;revolve;ten;koro-bu
+軽;lightly;kei;karu-i
+農;agriculture;nō
+返;repay;hen;kae-su
+追;follow;tsui;o-u
+送;send;sō;oku-ru
+速;fast;soku;haya-i
+進;progress;shin;susu-mu
+遊;play;yū;aso-bu
+運;carry;un;hako-bu
+部;part;bu
+都;metropolis;to or tsu;miyako
+配;distribute;hai;kuba-ru
+酒;liquor;shu;sake or saka
+重;heavy, gravity; pile;jū or chō;omo-i or kasa-neru
+鉄;iron;tetsu
+銀;silver;gin;shirogane
+開;open;kai;hira-ku or a-ku
+院;institution;in
+陽;sunshine;yō;hi
+階;storey;kai;kizahashi
+集;gather;shū;atsu-maru
+面;surface;men　;omote or tsura
+題;topic;dai
+飲;drink;in;no-mu
+館;public building;kan;tate
+駅;station;eki
+鼻;nose;bi;hana
+不;not;fu or bu
+争;conflict;sō;araso-u
+付;attach;fu;tsu-ku
+令;orders;rei
+以;since;i
+仲;go-between;chū;naka
+伝;transmit;den;tsuta-eru
+位;rank;i;kurai
+低;low;tei;hiku-i
+例;example;rei;tato-eru
+便;convenience; letter;ben or bin;tayo-ri
+信;trust;shin
+倉;storage;sō;kura
+候;climate;kō
+借;borrow;shaku;ka-riru
+停;halt;tei
+健;healthy;ken
+側;side;soku;kawa
+働;work;dō;hatara-ku
+億;hundred million;oku
+兆;portent or trillion;chō;kiza-shi
+児;offspring;ji or ni
+共;together;kyō;tomo
+兵;soldier;hei or hyō;tsuwamono
+典;code;ten
+冷;cool;rei;tsume-tai or hi-eru or sa-meru
+初;first;sho;hatsu or haji-me
+別;separate;betsu;waka-reru
+利;profit;ri
+刷;printing;satsu;su-ru
+副;vice-;fuku
+功;achievement;kō
+加;add;ka;kuwa-eru
+努;toil;do;tsuto-meru
+労;labor;rō;negira-u
+勇;courage;yū;isa-mu
+包;wrap;hō;tsutsu-mu
+卒;graduate;sotsu
+協;cooperation;kyō
+単;simple;tan
+博;wide knowledge; Dr.;haku
+印;mark;in;shirushi
+参;participate;san;mai-ru
+史;history;shi
+司;director;shi
+各;each;kaku;ono-ono
+告;tell;koku;tsu-geru
+周;circumference;shū;mawa-ri
+唱;chant;shō;tona-eru
+喜;rejoice;ki;yoroko-bu
+器;container;ki;utsuwa
+囲;surround;i;kako-u
+固;harden;ko;kata-maru
+型;model;kei;kata
+堂;public chamber;dō
+塩;salt;en;shio
+士;gentleman;shi
+変;change, strange;hen;ka-waru
+夫;husband;fu fuu bu;otto
+失;lose;shitsu;ushina-u
+好;like;kō;su-ku or kono-mu
+季;seasons;ki
+孫;grandchild;son;mago
+完;perfect;kan
+官;government official;kan
+害;harm;gai
+察;guess;satsu
+巣;nest;sō;su
+差;distinction;sa
+希;hope;ki;mare
+席;seat;seki
+帯;sash;tai;obi
+底;bottom;tei;soko
+府;urban prefecture;fu
+康;ease;kō
+建;build;ken;ta-teru
+径;diameter;kei
+徒;junior;to
+得;acquire;toku;e-ru
+必;inevitable;hitsu;kanara-zu
+念;thought;nen
+愛;love　;ai
+成;become;sei;na-ru
+戦;war;sen;ikusa or tataka-u
+折;fold;setsu;o-ru
+挙;raise;kyo;a-geru
+改;reformation;kai;arata-meru
+救;salvation;kyū;suku-u
+敗;failure;hai;yabu-reru
+散;scatter;san;chi-ru
+料;fee;ryō
+旗;flag;ki;hata
+昨;yesterday;saku
+景;scenery;kei
+最;superlative;sai;mo or motto-mo
+望;hope;bō;nozo-mu
+未;un-;mi;ima-da
+末;end;matsu;sue
+札;tag;satsu;fuda
+材;lumber, material;zai
+束;bundle;soku;taba or tsuka
+松;pine;shō;matsu
+果;accomplish, fruit;ka;ha-tasu
+栄;prosperity;ei;saka-eru
+案;plan;an
+梅;apricot;bai;ume
+械;contraption;kai
+極;poles;kyoku;kiwa-meru
+標;signpost;hyō
+機;machine;ki;hata
+欠;lack;ketsu;ka-keru
+歴;curriculum;reki
+残;remainder;zan;noko-ru
+殺;kill;satsu;koro-su
+毒;poison;doku
+氏;surname;shi;uji
+民;people;min;tami
+求;request;kyū;moto-mu
+治;govern;chi or ji;osa-meru or nao-ru
+法;method;hō
+泣;cry;kyū;na-ku
+浅;shallow;sen;asa-i
+浴;bathe; bask;yoku;abi-ru
+清;pure;sei or shō;kiyo-raka
+満;full;man;mi-chiru
+漁;fishing;ryō or gyo;asa-ru
+灯;lamp;tō;hi
+無;nothing;mu or bu;na-i
+然;so;zen or nen;shika-shi
+焼;bake;shō;ya-ku
+照;illuminate;shō;te-rasu
+熱;heat;netsu;atsu-i
+牧;pasture; breed;boku;maki
+特;special;toku
+産;give birth;san;u-mu
+的;target;teki;mato
+省;government ministry; omit; look back;sho or sei;habu-ku
+祝;celebrate;shuku;iwa-u
+票;ballot;hyō
+種;species; seed;shu;tane
+積;accumulate; pile;seki;tsu-mu
+競;emulate;kyō;kiso-u
+笑;laugh;shō;wara-u
+管;pipe;kan;kuda
+節;node;setsu;fushi
+粉;flour;fun;ko or kona
+紀;chronicle;ki
+約;promise;yaku
+結;tie;ketsu;musu-bu or yu-u
+給;salary;kyū;tama-u
+続;continue;zoku;tsuzu-ku
+置;put;chi;o-ku
+老;old man;rō;o-iru
+胃;stomach;i
+脈;vein;myaku
+腸;intestines;chō;harawata
+臣;retainer;shin
+航;cruise;kō
+良;good;ryō;yo-i
+芸;art;gei
+芽;bud;ga;me
+英;England;ei
+菜;vegetable;sai;na
+街;street, city;gai;machi
+衣;garment;i;koromo
+要;need;yō;i-ru
+覚;memorize;kaku;obo-eru or sa-meru
+観;observe;kan;mi-ru
+訓;instruction;kun
+試;test;shi;kokoromi-ru or tame-su
+説;theory;setsu;to-ku
+課;section;ka
+議;deliberation;gi
+象;elephant; figure;zō or shō;
+貨;freight;ka
+貯;savings;cho;ta-meru
+費;expense;hi;tsui-yasu
+賞;prize;shō
+軍;army;gun
+輪;wheel;rin;wa
+辞;resign; speech; encyclopedia;ji;ya-meru
+辺;environs;hen;ata-ri
+連;take along;ren;tsu-reru or tsura-neru
+達;attain;	tachi
+選;choose;sen;era-bu
+郡;county;gun
+量;quantity;ryō
+録;transcript;roku
+鏡;mirror;kyō;kagami
+関;related;kan;seki
+陸;land;riku
+隊;squad;tai
+静;quiet;sei;shizu-ka
+順;obey;jun
+願;request;gan;nega-u
+類;sort;rui
+飛;fly;hi;to-bu
+飯;meal;han;meshi
+養;foster;yō;yashina-u
+験;verify;ken
+久;long time;kyū;hisa
+仏;Buddha;hutsu or butsu;hotoke
+仮;sham;ka or ke;kari
+件;affair;ken
+任;responsibility;nin;maka-seru
+似;becoming;ji;ni-ru
+余;surplus;yo;ama-ru
+価;value;ka;atai
+保;preserve;ho;tamo-tsu
+修;discipline;shū;osa-meru
+俵;straw bag;hyō;tawara
+個;individual;ko
+備;provide;bi;sona-eru
+像;statue;zō
+再;again;sai or sa;futata-bi
+刊;publish;kan
+判;judge;han;waka-ru
+制;control;sei
+券;ticket;ken
+則;rule;soku;notto-ru
+効;effect;kō;ki-ku
+務;duty;mu;tsuto-meru
+勢;energy;sei;ikio-i
+厚;rich;kō;atsu-i
+句;phrase;ku
+可;possible;ka
+営;manage;ei;itona-mu
+因;cause;in;yo-ru
+団;association;dan or ton
+圧;pressure;atsu
+在;exist;zai;a-ru
+均;level;kin
+基;foundation;ki;moto-duku
+報;report;hō;muku-iru
+境;boundary;kyō;sakai
+墓;grave;bo;haka
+増;increase;zō;ma-su or fu-eru
+夢;dream;mu;yume
+妻;wife;sai;tsuma
+婦;lady;fu
+容;contain;yō
+寄;approach;ki;yo-ru
+富;abundant;fu;tomi
+導;guide;dō;michibi-ku
+居;reside;kyo;i-ru
+属;belong;zoku
+布;linen;fu;nuno
+師;expert;shi
+常;normal;jō;tsune
+幹;tree-trunk;kan;miki
+序;preface;jo
+弁;valve;ben
+張;stretch;chō;ha-ru
+往;journey;ō
+復;repeating;fuku
+徳;virtue;toku
+志;intention;shi;kokorozashi
+応;respond;ō
+快;cheerful;kai;kokoroyo-i
+性;gender;sei or shō;saga
+恩;grace;on
+情;feelings;jō;nasa-ke
+態;condition;tai
+慣;accustomed;kan;na-reru
+承;acquiesce;shō;uketamawa-ru
+技;skill;gi;waza
+招;beckon;shō;mane-ku
+授;instruct;ju;sazu-keru
+採;pick;sai;to-ru
+接;contact;setsu;tsu-gu
+提;propose;tei;sa-geru
+損;loss;son;soko-neru
+支;support;shi;sasa-eru
+政;politics;sei;matsurigoto
+故;circumstances;ko;yue
+敵;enemy;teki;kataki
+断;cut off;dan;ta-tsu or kotowa-ru
+旧;old times;kyū
+易;easy;eki;yasa-shii
+暴;outburst;bō;aba-ku
+条;clause;jō
+枝;branch;shi;eda
+査;investigate;sa
+格;status;kaku
+桜;cherry;ō;sakura
+検;examine;ken
+構;construct;kō;kama-eru
+武;military;bu or mu
+比;compare;hi;kura-beru
+永;eternity;ei;naga-i
+河;stream;ka;kawa
+液;fluid;eki
+混;mix;kon;ma-zaru
+減;decrease;gen;he-ru
+測;fathom;soku;haka-ru
+準;standard;jun
+演;perform;en
+潔;undefiled;ketsu;isagiyo-i
+災;disaster;sai;wazawa-i
+燃;burn;nen;mo-eru
+版;printing block;han
+犯;crime;han;oka-su
+状;form;jō
+独;alone;doku;hito-ri
+率;rate;ritsu or sotsu;hiki-iru
+現;appear;gen;arawa-reru
+留;detain;ryū or ru;todo-maru
+略;abbreviation;ryaku
+益;benefit;eki
+眼;eyeball;gan;me
+破;rend;ha;yabu-ru
+確;certain;kaku;tashi-ka
+示;indicate;shi;shime-su
+祖;ancestor;so
+禁;prohibition;kin
+移;shift;i;utsu-ru
+程;extent;tei;hodo
+税;tax;zei
+築;fabricate;chiku;kizu-ku
+精;refined;sei
+素;elementary;su or so;moto
+経;manage;kei or kyō;he-ru
+統;relationship;tō;su-beru
+絶;discontinue;zetsu;ta-tsu
+綿;cotton;men;wata
+総;whole;sō
+編;compile;hen;a-mu
+績;exploits;seki
+織;weave;shiki;o-ru
+罪;guilt;zai;tsumi
+群;flock;gun;mu-reru
+義;righteousness;gi
+耕;till;kō;tagaya-su
+職;employment;shoku
+肥;fertilizer;hi;ko-yasu
+能;ability;nō
+興;entertain;kyō;oko-su
+舌;tongue;zetsu;shita
+舎;cottage;sha
+術;art;jutsu;sube
+衛;defense;ei
+製;manufacture;sei
+複;duplicate;fuku
+規;rule;ki
+解;untie;ge or kai;to-ku
+設;establish;setsu;mouke-ru
+許;permit;kyo;yuru-su
+証;evidence;shō;akashi
+評;evaluate;hyō
+講;lecture;kō
+謝;apologize;sha;ayama-ru
+識;discriminating;shiki
+護;safeguard;go;mamo-ru
+豊;bountiful;hō;yuta-ka
+財;wealth;zai
+貧;poor;hin;mazushi-i
+責;blame;seki;se-meru
+貸;lend;tai;ka-su
+貿;trade;bō
+賀;congratulations;ga
+資;resources;shi
+賛;approve;san
+質;quality;shitsu
+輸;transport;yu
+述;mention;jutsu;no-beru
+迷;astray;mei;mayo-u
+退;retreat;tai;shirizo-ku
+逆;inverted;gyaku;sakara-u
+造;create;zō;tsuku-ru
+過;overdo;ka;ayama-chi
+適;suitable;teki
+酸;acid;san
+鉱;mineral;kō
+銅;copper;dō
+銭;coin;sen;zeni
+防;resist;bō;fuse-gu
+限;limit;gen;kagi-ru
+険;precipitous;ken;kewa-shii
+際;occasion;sai;kiwa
+雑;miscellaneous;zatsu
+非;negative;hi;ara-zu
+預;deposit;yo;azu-keru
+領;territory;ryō
+額;amount;gaku;hitai
+飼;domesticate;shi;ka-u
+並;row;hei;nami or nara-bu
+乱;chaos;ran;mida-reru
+乳;milk;nyū;chichi
+亡;deceased;bō;na-kunaru
+仁;kindness;jin
+供;offer;kyō or ku;tomo
+俳;actor;hai
+値;value;chi;atai
+傷;wound;shō;kizu
+優;superior;yū;yasa-shii
+党;political party;tō
+冊;counter for books;satsu
+処;dispose;sho
+刻;engrave;koku;kiza-mu
+割;divide;katsu;wa-ru
+創;create;sō;tsuku-ru
+劇;drama;geki
+勤;diligence;kin;tsuto-meru
+危;dangerous;ki;aya-ui
+卵;egg;ran;tamago
+厳;strict;gen;kibi-shii
+収;obtain;shū;osa-meru
+后;queen;gō;kisaki
+否;negate;hi;ina or iya
+吸;suck;kyū;su-u
+呼;call;ko;yo-bu
+善;virtue;zen;yo-i
+困;quandary;kon;koma-ru
+垂;droop;sui;ta-reru
+城;castle;jō;shiro
+域;range;iki
+奏;play music;sō;kana-deru
+奮;stirred up;fun;furu-u
+姿;shape;shi;sugata
+存;suppose;son
+孝;filial piety;kō
+宅;home;taku;ie
+宇;eaves;u
+宗;religion;shū;sō
+宙;mid-air;chū
+宝;treasure;hō;takara
+宣;proclaim;sen;notama-u
+密;secrecy;mitsu
+寸;measurement;sun
+専;specialty;sen;moppa-ra
+射;shoot;sha;i-ru
+将;leader;shō
+尊;revered;son;touto-bu
+就;concerning;shū;tsu-ku
+尺;measure of length;shaku
+届;deliver;kai;todo-ku
+展;expand;ten
+層;stratum;sō
+己;self;ko;onore
+巻;scroll;kan;ma-ku
+幕;curtain;maku or baku
+干;dry;kan;ho-su
+幼;infancy;yō;osana-i
+庁;government office;chō
+座;sit;za;suwa-ru
+延;prolong;en;no-basu
+律;rhythm;ritsu
+従;obey;jū;shitaga-u
+忘;forget;bō;wasu-reru
+忠;loyalty;chū
+憲;constitution;ken
+我;ego;ga;ware
+批;criticism;hi
+担;shouldering;tan;nina-u
+拝;worship;hai;oga-mu
+拡;broaden;kaku;hiro-geru
+捨;discard;sha;su-teru
+探;grope;tan;saga-su
+推;infer;sui
+揮;brandish;ki
+操;maneuver;sō;ayatsu-ru
+敬;respect;kei;uyama-u
+映;reflect;ei;utsu-ru
+晩;nightfall;ban
+暖;warmth;dan;atata-kai
+暮;livelihood;bo;ku-rasu
+朗;melodious;rō;hoga-raka
+机;desk;ki;tsukue
+枚;sheet of...;mai
+染;dye;sen;so-meru
+株;stocks;chu, shu;kabu
+棒;rod;bō
+模;imitation;mo or bo
+権;rights;ken
+樹;trees;ju;ki
+欲;longing;yoku;ho-shii
+段;steps;dan
+沿;run alongside;en;so-u
+泉;fountain;sen;izumi
+洗;wash;sen;ara-u
+派;sect;ha
+済;settle;sai;su-mu
+源;source;gen;minamoto
+潮;tide;chō;shio
+激;violent;geki;hage-shii
+灰;ashes;kai;hai
+熟;ripen;juku;u-reru
+片;one-sided;hen;kata
+班;corps;han
+異;uncommon;i;koto-naru
+疑;doubt;gi;utaga-u
+痛;pain;tsū;ita-i
+皇;emperor;kō;ō
+盛;prosper;sei;mo-ru
+盟;alliance;mei
+看;watch over;kan
+砂;sand;sa or sha;suna
+磁;magnet;ji
+私;me;shi;watakushi or watashi
+秘;secret;hi;hi-meru
+穀;cereal;koku
+穴;hole;ketsu;ana
+窓;window;sō;mado
+筋;muscle;kin;suji
+策;scheme;saku
+簡;simplicity;kan
+糖;sugar;tō
+系;lineage;kei
+紅;crimson;kō;beni or kurenai
+納;settlement;nō;osa-meru
+純;genuine;jun
+絹;silk;ken;kinu
+縦;vertical;jū;tate
+縮;shrink;shuku;chidi-mu
+署;government office;sho
+翌;forthcoming;yoku
+聖;holy;sei
+肺;lung;hai
+背;back;hai;se
+胸;bosom;kyō;mune
+脳;brain;nō
+腹;abdomen;fuku;hara
+臓;entrails;zō
+臨;lookover;rin;nozo-mu
+至;climax;shi;ita-ru
+若;young;jaku;waka-i
+著;renowned;cho;arawa-su or ichijiru-shii
+蒸;foment;jō;mu-su
+蔵;storehouse;zō;kura
+蚕;silkworm;san;kaiko
+衆;masses;shū
+裁;judge;sai;saba-ku
+装;attire;sō or shō;yosoo-u
+裏;rear;ri;ura
+補;supplement;ho;ogina-u
+視;look at;shi;mi-ru
+覧;perusal;ran
+討;chastise;tō;u-tsu
+訪;visit;hō;otozu-reru
+訳;translate;yaku;wake
+詞;poetry;shi;kotoba
+誌;document;shi
+認;recognize;nin;mito-meru
+誕;born;tan
+誠;sincerity;sei;makoto
+誤;mistake;go;ayama-ru
+論;theory;ron
+諸;various;sho;moro
+警;admonish;kei;imashi-meru
+貴;precious;ki;tatto-i
+賃;fare;chin
+遺;bequeath;i
+郵;mail;yū
+郷;home town;kyō;gō
+針;needle;shin;hari
+鋼;steel;kō;hagane
+閉;closed;hei;shi-meru
+閣;tall;kaku
+降;descend;kō;o-riru
+陛;majesty;hei
+除;exclude;jo or ji;nozo-ku
+障;hurt;shō;sawa-ru
+難;difficult;nan;muzuka-shii
+革;leather;kaku;kawa
+頂;place on the head;chō;itada-ku
+骨;bone;kotsu;hone

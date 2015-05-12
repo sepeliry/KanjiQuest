@@ -51,7 +51,7 @@ import pygame as pg
 
 pg.init();
 
-screen = pg.display.set_mode((640,480))
+screen = pg.display.set_mode((1024,768))
 
 # colors
 WHITE = [255,255,255]
@@ -70,9 +70,6 @@ LBROWN = [210,180,140]
 DRED = [110,10,30]
 
 TILE_SIZE = 32 # desired tile size
-FPS = 60
-mainloop = True
-clock = pg.time.Clock()
 
 kanji_font = pg.font.SysFont("TakaoPMincho", TILE_SIZE)
 
@@ -107,7 +104,7 @@ for kanji in merkisto:
 
     
     selite_font = pg.font.SysFont("Arial", 12)
-    selite_array = wrapline(selite,selite_font,TILE_SIZE)
+    selite_array = wrapline(str(current_row) + '.' + selite,selite_font,TILE_SIZE)
     label = selite_font.render(selite_array[0], 1, (WHITE))
     piirtopinta.blit(label, (0, current_row*TILE_SIZE))
     
@@ -145,26 +142,4 @@ for kanji in merkisto:
     piirtopinta.blit(label, (TILE_SIZE*14, current_row*TILE_SIZE))
 
     current_row += 1
-
-screen.blit(piirtopinta, (0,0))
-
-
-while mainloop:
-
-    events = pg.event.get()
-    for event in events:
-        if event.type == pg.KEYDOWN:
-            if event.key == pg.K_ESCAPE:
-                mainloop = False
-               
-
-    milliseconds = clock.tick(FPS) # do not go faster than this frame rate
-    pg.display.set_caption("Frame rate: {:0.2f} frames per second.".format(clock.get_fps()))
-    pg.display.update()
-    pg.display.flip()
-
-#pg.image.save(piirtopinta, 'kanji_tiles.png')
-
-pg.display.quit()
-
-
+#screen.blit(piirtopinta, (0,0))
